@@ -1,9 +1,11 @@
-Highway Story on kiihdytysajoihin keskittyvä tarinapeli, jossa täydelliset vaihdot vievät sinut kaupunkien välisten teiden läpi. Aloita vaatimattomasta alusta yhdellä lähtöautoista, aja kilpaa ja opi nopeasti: vaihda ajoissa voittaaksesi, voitot ansaitsevat elantosi ja voit päivittää ajoneuvoasi! Voita tasoja ja pomoja avataksesi uusia vaikeampia tasoja, pyöriä ja uusia autoja.
+Colorful Strike Team on tornipuolustuspeli, joka sijoittuu kyläfantasiaan ja sinä olet sen puolustaja. Tehtävänäsi on toimia supersankaritiimin mentorina ja pitää kyläsi turvassa lähestyviltä hirviöiltä!
 
-Pelaa tarinaa kolmessa jaksossa, joista jokaisella on omat tasonsa ja pomonsa. Napsauta "Kilpailu" avataksesi 15 tason kartan, joka on jaettu toisiinsa yhteydessä oleville reiteille. Jokainen viides taso on pomojen välienselvittely, ja jokainen taso antaa sinulle pienen tarinankerron nautittavaksi.
+Lyhyt tutoriaali auttaa sinut alkuun! Hanki ensin sankari, yhdistä sitten kokoonpano päivitystä varten, aseta paras paikka ruudukossa ja käsittele ensimmäinen aaltosi, toista ja jatka. Jotta kylä pysyisi turvassa, sinun on suoritettava kaikki tasot!
 
-Voiton saavuttamiseksi sinun on päivitettävä autoasi autotallissa. Teho, nopeus, pito ja paino ovat avaintekijöitä, jotka tekevät ajostasi nopeampaa. Jos sinusta tuntuu, että olet saavuttanut rajan - osta uusi auto ja päivitä sitä entisestään.
+Taistelut johtavat kylään esteettömästi. Napauta keskellä olevaa ilmestymispainiketta kutsuaksesi satunnaisia ​​torneja, vedä niitä tornipaikkojen välillä hienosäätääksesi asetteluasi ja käytä kahta pelastajaa alhaalla – sydäntä toipumiseen ja pommia hätävahinkoihin. Aallot voimistuvat, ja pomot ilmestyvät aalloilla 10 ja 20.
 
-Pelaa yhtä kahdesta tilasta: tarina- tai arcade-tilaa, suorita saavutuksia ja mikä tärkeintä, pidä hauskaa!
+Colorful Strike Teamissä on seitsemän erityyppistä tornia, joilla jokaisella on omat erikoisuutensa. Jääkylmistä torneista vihollisten hidastamiseen myrkyllisiin ja hulluihin torneihin. Pelaa löytääksesi suosikkisi.
 
-Oletko valmis haastamaan seuraavan vastustajasi? Lataa Highway Street nyt!
+Päivitä puolustajiesi voimaa nostamalla heidän tilastojaan, kuten voimaa, nopeutta ja sädettä. Säde kauemmas ampumiseen, nopeus nopeampaan ampumiseen ja voima kovempaa ampumiseen!
+
+Suunnittele, yhdistä ja suojele kylääsi – Värikäs iskuryhmä odottaa!

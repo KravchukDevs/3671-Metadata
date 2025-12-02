@@ -1,1 +1,1 @@
-arrastrar, juego, carrera, campaña, juego de rol
+estrategia, oleadas, enemigos, torre, defensa, héroes, juego de rol
